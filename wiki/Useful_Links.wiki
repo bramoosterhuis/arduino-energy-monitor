@@ -1,5 +1,5 @@
 #summary A collection of useful links for the project.
 
-= Details =
+= Links =
 
-http://scoopmycatbox.com/blog/2009/03/ultrasonic-cat-dish-up/
+* http://scoopmycatbox.com/blog/2009/03/ultrasonic-cat-dish-up/
